@@ -1,0 +1,21 @@
+body{
+    padding:0;
+    margin:0 auto;
+  padding-top:5%;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+   
+  }
+  
+  nav{
+    position:fixed;
+    top:0;
+    width:100%;
+    background:#6c6cab;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+  }
+  h2:hover{
+    color:red;
+    cursor:pointer;
+  }
+  
